@@ -6,7 +6,6 @@
 #include <SDL/SDL_image.h>
 #include <SDL/SDL_ttf.h>
 
-#include "win.h"
 #include "patapon.h"
 
 #ifndef O_BINARY
